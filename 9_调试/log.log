@@ -1,0 +1,5 @@
+2020-05-17  16:42:22 Sun  root DEBUG c:/Users/Administrator/Desktop/python/9_调试/3_输出目标文件.py msg1 
+2020-05-17  16:42:22 Sun  root INFO c:/Users/Administrator/Desktop/python/9_调试/3_输出目标文件.py msg2 
+2020-05-17  16:42:22 Sun  root WARNING c:/Users/Administrator/Desktop/python/9_调试/3_输出目标文件.py msg3 
+2020-05-17  16:42:22 Sun  root ERROR c:/Users/Administrator/Desktop/python/9_调试/3_输出目标文件.py msg4 
+2020-05-17  16:42:22 Sun  root CRITICAL c:/Users/Administrator/Desktop/python/9_调试/3_输出目标文件.py msg5 

@@ -1,0 +1,4 @@
+打包:
+  pyinstaller -F xxx.py   留有黑窗口
+  pyinstaller -w xxxpy 去除黑窗口pipxxx 
+
